@@ -79,4 +79,3 @@ Blogs posts
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinashe-nyoni&show_icons=true&locale=en" alt="tinashe-nyoni" /></p>
 
-You can learn more about how to create a visually appealing GitHub profile README with this video on writing a README template.
