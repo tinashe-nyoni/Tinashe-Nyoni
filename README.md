@@ -75,6 +75,5 @@ Website Developer | WhiteCanes Foundation Trust - Chitungwiza, Zimbabwe | (Apr 2
     * Developed a comprehensive online platform to advocate for the recognition and support of those living with a disability and blindness in Zimbabwe & enhanced the platform's visibility and engagement by integrating accessible design features and user-friendly navigation.
 
 Blogs posts
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinashe-nyoni&show_icons=true&locale=en&layout=compact" alt="tinashe-nyoni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tinashe-nyoni&show_icons=true&locale=en" alt="tinashe-nyoni" /></p>
+<p><img align="left" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dtinashe-nyoni%26show_icons%3Dtrue%26locale%3Den%26hide_rank%3Dtrue%26include_all_commits%3Dtrue" alt="tinashe-nyoni" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=tinashe-nyoni&show_icons=true&locale=en&layout=compact" alt="tinashe-nyoni" /></p>
